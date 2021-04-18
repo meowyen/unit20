@@ -7,3 +7,5 @@ This [contract](AssociateProfitSplitter.sol) splits deposits into 3 different ac
 The following shows how to make a deposit in Remix:
 
 ![Depositing Ether](associate_profit_splitter.gif)
+
+This contract has been deployed to the Ropsten Test network with the following contract address, `0xAF780d609D88285183eE628B4B0b17e60F51016c`.
